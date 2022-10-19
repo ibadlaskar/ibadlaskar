@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ibadur Laskar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibadlaskar&label=Profile%20views&color=0e75b6&style=flat](https://contentstatic.techgig.com/thumb/msid-77087595,width-460,resizemode-4/Guide-How-to-build-career-as-a-programmer-without-college-degree.jpg?336360)" alt="ibadlaskar" /> </p>

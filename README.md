@@ -11,8 +11,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/ibad_laskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibad_laskar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ibad-laskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibad-laskar" height="30" width="40" /></a>
-<a href="https://fb.com/ibadlaskr6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ibadlaskr6" height="30" width="40" /></a>
+<a href="https://fb.com/ibadulaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ibadulaskar" height="30" width="40" /></a>
+<a href="https://medium.com/@ibadlaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ibadlaskar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ibadlaskarac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ibadlaskarac" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ibad_laskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ibad_laskar" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ibalaskar6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ibalaskar6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

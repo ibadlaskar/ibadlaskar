@@ -1,3 +1,5 @@
+<img src="https://github.com/ibadlaskar/projects/blob/master/Dark%20Neon%20Simple%20Futuristic%20UIUX%20Designer%20LinkedIn%20Banner.gif?raw=true">
+
 <h1 align="center">Hi 👋, I'm Ibadur Laskar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
@@ -9,7 +11,7 @@
 - 🌱 I’m currently learning **Java Spring Boot**
 
 - 📫 How to reach me **ibalaskar6@gmail.com**
-
+<img align="right" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ibad_laskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibad_laskar" height="30" width="40" /></a>

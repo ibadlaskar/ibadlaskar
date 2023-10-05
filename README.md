@@ -53,6 +53,9 @@
 
 <br/>
 <br/>
+[![@eltociear's Holopin board](https://holopin.me/eltociear)](https://holopin.io/@eltociear)
+
+
 
 
 # 🥇 Technical Skills:

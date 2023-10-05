@@ -1,4 +1,4 @@
- <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 
 <h1 align="center">
   Hi there I'm <a href="https://www.linkedin.com/in/ibad-laskar">Ibad 💻</a>!
@@ -53,9 +53,8 @@
 
 <br/>
 <br/>
-[![@eltociear's Holopin board](https://holopin.me/eltociear)](https://holopin.io/@eltociear)
 
-
+[![An image of @ibadlaskar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ibadlaskar)](https://holopin.io/@ibadlaskar)
 
 
 # 🥇 Technical Skills:
